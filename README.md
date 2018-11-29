@@ -6,7 +6,7 @@ A sample REST API developed in Python 3 using Django REST framework. It provides
 ## Project bootstrap
 
 * Open the command line and go to the directory you want to clone the repository.  
-* Clone the project: `git clone`.  
+* Clone the project: `git clone https://github.com/OrigamiStudiosLLC/sample-rest-api-django`.  
 * Install pipenv: `pip install pipenv`.  
 * Install the required packages: `pipenv install`.  
 * Set the required environment variables from the `config/common.py` file with required values.  
